@@ -95,7 +95,7 @@ pnpm dev
 
 ## 🧑‍💻 Author
 
-👤 Mohamed Bashir
+👤 Cassian Kiragu
 
 
 ## 📝 License
